@@ -6,7 +6,7 @@ html
     div.container
       div.jumbotron
         h1 Hello everyone!!!
-        p Click the button below to head over to my site...
+        p Click the button below to head over to my podcast...
         p 
-          a.btn.btn-primary(href="http://www.juliorg.com/mynotes") Juliorg
+          a.btn.btn-primary(href="http://intechwetrustpodcast.com") Podcast
         p
